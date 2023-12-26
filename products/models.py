@@ -9,4 +9,4 @@ class Product(models.Model):
 
 
 class Offer(models.Model):
-
+    pass
